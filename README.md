@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software developer with experience in building scalable web applications using technologies like JavaScript, React, and Node.js. I’ve worked on developing end-to-end solutions, including frontend interfaces and backend APIs, with a focus on performance and user experience.
+I’m a software developer with experience in building scalable web applications using technologies like Java, JavaScript, React, and Node.js. I’ve worked on developing end-to-end solutions, including frontend interfaces and backend APIs, with a focus on performance and user experience.
 
 
 # 💻 Tech Stack:
